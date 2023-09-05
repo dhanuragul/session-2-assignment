@@ -1,0 +1,45 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: antiquewhite;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+}
+
+.a1{
+    color: black;
+    background-color: white;
+    display: inline;
+}
+
+.a2{
+    color: black;
+    background-color: white;
+    display: block;
+}
+
+.a3{
+    color: black;
+    background-color: white;
+    display: block;
+}
+
+.a4{
+    color: black;
+    background-color: white;
+    display: block;
+}
+
+.a5{
+    color: black;
+    background-color: white;
+    display: block;
+}
+
+.a6{
+color: black;
+    background-color: white;
+    display: block;
+}
